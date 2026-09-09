@@ -6,6 +6,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
+| [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 ## String
 |  |
 | ------- |
