@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
@@ -14,6 +15,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
