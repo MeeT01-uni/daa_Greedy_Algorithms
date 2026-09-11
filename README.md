@@ -23,6 +23,7 @@
 | [0045-jump-game-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -33,15 +34,18 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
