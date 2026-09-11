@@ -30,12 +30,14 @@
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
+| [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
 | ------- |
