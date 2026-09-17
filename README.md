@@ -10,6 +10,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -34,6 +35,7 @@
 | [0134-gas-station](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
