@@ -17,6 +17,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@
 | [0376-wiggle-subsequence](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
@@ -81,6 +84,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -123,4 +127,5 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
