@@ -10,6 +10,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
@@ -20,6 +21,7 @@
 | [0055-jump-game](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0316-remove-duplicate-letters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
