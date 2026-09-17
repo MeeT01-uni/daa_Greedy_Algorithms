@@ -55,6 +55,7 @@
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0738-monotone-increasing-digits) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
 ## Hash Table
 |  |
