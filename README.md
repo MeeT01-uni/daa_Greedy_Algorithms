@@ -21,6 +21,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
@@ -72,6 +73,7 @@
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0738-monotone-increasing-digits) |
+| [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
 ## Hash Table
 |  |
@@ -163,6 +166,7 @@
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
+| [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 ## Timsort
 |  |
