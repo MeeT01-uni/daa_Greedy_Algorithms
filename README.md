@@ -32,6 +32,7 @@
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
+| [1053-previous-permutation-with-one-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1053-previous-permutation-with-one-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
+| [1053-previous-permutation-with-one-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1053-previous-permutation-with-one-swap) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
