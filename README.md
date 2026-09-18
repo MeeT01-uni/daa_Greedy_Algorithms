@@ -23,6 +23,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0397-integer-replacement) |
+| [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0649-dota2-senate) |
+## Matrix
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
