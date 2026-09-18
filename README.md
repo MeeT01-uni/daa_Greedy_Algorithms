@@ -28,6 +28,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
@@ -126,6 +128,7 @@
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,4 +199,12 @@
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
