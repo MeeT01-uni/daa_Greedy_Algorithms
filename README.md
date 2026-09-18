@@ -28,6 +28,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
