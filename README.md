@@ -15,6 +15,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -51,6 +52,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
@@ -99,6 +101,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
@@ -110,6 +113,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
@@ -156,4 +160,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0678-valid-parenthesis-string) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
