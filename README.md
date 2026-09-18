@@ -27,6 +27,7 @@
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
