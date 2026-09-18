@@ -90,6 +90,7 @@
 | [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1053-previous-permutation-with-one-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1053-previous-permutation-with-one-swap) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
@@ -103,6 +104,7 @@
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
@@ -113,6 +115,7 @@
 | [0678-valid-parenthesis-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | [0402-remove-k-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
