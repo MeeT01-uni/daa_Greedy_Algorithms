@@ -21,6 +21,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
@@ -108,6 +110,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -117,6 +120,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0763-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
 |  |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 ## Queue
 |  |
 | ------- |
