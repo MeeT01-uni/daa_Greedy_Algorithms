@@ -39,6 +39,7 @@
 | [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
