@@ -27,6 +27,7 @@
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0969-pancake-sorting) |
@@ -83,6 +84,7 @@
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
@@ -143,6 +145,7 @@
 | [0826-most-profit-assigning-work](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0969-pancake-sorting) |
@@ -174,6 +177,7 @@
 | [0670-maximum-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
+| [0910-smallest-range-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
 ## Hash Table
 |  |
