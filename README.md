@@ -36,6 +36,7 @@
 | [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1053-previous-permutation-with-one-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1053-previous-permutation-with-one-swap) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@
 | [1024-video-stitching](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1053-previous-permutation-with-one-swap](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1053-previous-permutation-with-one-swap) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
@@ -153,6 +155,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 ## Two Pointers
 |  |
@@ -192,6 +195,7 @@
 | [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0846-hand-of-straights) |
 | [0954-array-of-doubled-pairs](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0954-array-of-doubled-pairs) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 ## Timsort
 |  |
@@ -203,12 +207,14 @@
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 ## Longest Increasing Subsequence
 |  |
