@@ -40,6 +40,7 @@
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [1029-two-city-scheduling](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
