@@ -106,6 +106,7 @@
 | [1090-largest-values-from-labels](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## String
 |  |
@@ -120,6 +121,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
@@ -192,6 +194,7 @@
 | [0781-rabbits-in-forest](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0781-rabbits-in-forest) |
 | [0910-smallest-range-ii](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/0991-broken-calculator) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MeeT01-uni/daa_Greedy_Algorithms/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Hash Table
 |  |
 | ------- |
